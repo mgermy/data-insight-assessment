@@ -1,4 +1,10 @@
-.ipnb_checkpoints/
+.ipynb_checkpoints/
+catboost_info/
+*/.ipynb_checkpoints/*
 __pycache__/
-*.ipynb
 *.pyc
+.ipynb_checkpoints/EDA-data_cleaning-checkpoint.ipynb
+.ipynb_checkpoints/EDA-Feature-engineering-checkpoint.ipynb
+.ipynb_checkpoints/modelling-checkpoint.ipynb
+.DS_Store
+~$market_plan.pptx
